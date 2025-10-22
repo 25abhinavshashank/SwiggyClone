@@ -21,7 +21,7 @@ export default function RestaurantMenu(){
          fetchData();
     },[])
  
-    console.log (RestData);
+   
 
     return(
         <>
